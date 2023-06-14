@@ -18,6 +18,14 @@ Neural style transfer: https://www.kaggle.com/code/sayakdasgupta/neural-style-t
 
 Debugging and proofreading code: ChatGPT
 
+### What I have done:
+Changing new dataset for DCGAN and Neural style transfer model
+
+Done experimentation such as epochs and batch size for the existing code of DCGAN and Neural style transfer model, and found that higher numbers of epochs converge to better solutions and generate higher-quality images.
+
+Combining DCGAN with neural style transfer
+
+
 
 ## Design and development processes
 
