@@ -23,7 +23,7 @@ Changing new dataset for DCGAN and Neural style transfer model
 
 Done experimentation such as epochs and batch size for the existing code of DCGAN and Neural style transfer model, and found that higher numbers of epochs converge to better solutions and generate higher-quality images.
 
-Combining DCGAN with neural style transfer
+Combining DCGAN model with neural style transfer model
 
 
 
