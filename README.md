@@ -36,6 +36,8 @@ Combining DCGAN model with neural style transfer model
 For dataset preparation, exploring different datasets posed challenges, and I encountered failures when attempting to switch datasets, such as the dataset size(small datasets can't train a good model), and dataset compatibility(some datasets are not compatible with the DCGAN code I used). It's crucial to ensure that the chosen dataset is properly formatted and contains a sufficient number of portrait paintings for effective training. I modified the DCGAN code to work with a dataset of portrait paintings from Kaggle instead of the original abstract generation dataset. 
 
 ### DCGAN Model Selection
+![1](https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/656ec333-490b-4ad6-a8aa-f3bcbe78b13f)
+
 I choose to train my new dataset of portrait paintings using this DCGAN model(https://www.kaggle.com/code/frabbisw/dcgan-faces). However, I have noticed that the generated images have low resolution and poor quality. I believe this issue arises due to compatibility problems between the dataset and the DCGAN model.
 
 To address this, I decided to try an alternative DCGAN model that has been specifically trained on a checkpoints dataset. The results obtained from this model have been satisfactory, demonstrating better effect with abstract art style.
