@@ -21,10 +21,12 @@ Debugging and proofreading code: ChatGPT
 
 ## Design and development processes
 
-### Train DCGAN
-![real image](https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/412ca40e-c001-4de6-aace-831597003300)
+### Dataset Preparation
+<img width="1080" alt="Screenshot 2023-06-14 at 12 06 59" src="https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/0f8d9bd9-3b93-436a-b53c-1f2e51c6df0e">
 For dataset preparation, exploring different datasets posed challenges, and I encountered failures when attempting to switch datasets, such as the dataset size(small datasets can't train a good model), and dataset compatibility(some datasets are not compatible with the DCGAN code I used). It's crucial to ensure that the chosen dataset is properly formatted and contains a sufficient number of portrait paintings for effective training. I modified the DCGAN code to work with a dataset of portrait paintings from Kaggle instead of the original abstract generation dataset. 
 
+### Train DCGAN
+![real image](https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/412ca40e-c001-4de6-aace-831597003300)
 After making modifications to the DCGAN code, I trained the model using the portrait paintings dataset. ChatGPT helped me analyse the existing code, identify potential errors, and provide suggestions for debugging.
 
 During the training process, I saved the generated fake images from the DCGAN into a folder. This allows me to analyze and evaluate the quality of the generated images later on.
