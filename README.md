@@ -3,7 +3,9 @@ The goal of this project is to train a Deep Convolutional Generative Adversarial
 
 ### Dataset used:
 Portrait: https://www.kaggle.com/datasets/deewakarchakraborty/portrait-paintings
+
 abstract art style: https://www.kaggle.com/datasets/greg115/abstract-art
+
 abstract art checkpoints: https://www.kaggle.com/datasets/therealcyberlord/abstract-art-generation-dcgan-checkpoints
 
 ### Code References:
