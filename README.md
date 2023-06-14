@@ -39,7 +39,7 @@ The final result of applying style transfer to the generated fake images is a se
 
 
 ## Challenges encountered
-DCGAN and style transfer models require substantial computational power and memory. Working with high-resolution images results in longer training times or potential resource limitations. Modifying the batch size didn't result in significant improvements of images. Then I decided to focus on training for more epochs instead.
+DCGAN and style transfer models require substantial computational power and memory. Working with high-resolution images results in longer training times or potential resource limitations. Modifying the batch size didn't result in significant improvements in images. Then I decided to focus on training for more epochs instead.
 
 ### Epochs=10
 ![epochs10](https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/f1ae8d58-8b6c-4d75-9c88-e9437e63da03)
