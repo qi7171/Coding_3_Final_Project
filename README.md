@@ -4,8 +4,11 @@ The goal of this project is to train a Deep Convolutional Generative Adversarial
 #### Colab: 
 https://colab.research.google.com/drive/13pHFgujf8P33GUtKZbDkJ6a_ifJAtpJm?usp=sharing
 
-#### Video Link:  
+#### GitHub: 
+https://github.com/qi7171/Coding_3_Final_Project.git
 
+#### Video Link:  
+https://youtu.be/Nn_SNnM60zE
 
 ### Dataset used:
 Portrait: https://www.kaggle.com/datasets/deewakarchakraborty/portrait-paintings
