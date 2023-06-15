@@ -2,6 +2,7 @@
 The goal of this project is to train a Deep Convolutional Generative Adversarial Network (DCGAN) to generate portrait paintings. After generating, I apply abstract art style transfer techniques to the generated portraits. 
 
 Colab: https://colab.research.google.com/drive/13pHFgujf8P33GUtKZbDkJ6a_ifJAtpJm?usp=sharing
+Video Link: 
 
 
 ### Dataset used:
