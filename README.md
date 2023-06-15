@@ -62,7 +62,7 @@ The final result of applying style transfer to the generated fake images is a se
 ## Challenges encountered
 DCGAN and style transfer models require substantial computational power and memory. Working with high-resolution images results in longer training times or potential resource limitations. 
 
-I tried modifying the batch size from 32 to 128, which is unlikely to directly influence the image resolution or quality. Then I focused on training for more epochs instead. However, it's worth noting that the choice of batch size can indirectly impact the image resolution or quality through its effects on the training process. For example:
+I tried modifying the batch size from 32 to 128, which is unlikely to directly influence the image resolution or quality. Then I focused on training for more epochs instead. However, it's worth noting that the number of epochs can indirectly impact the image resolution or quality through its effects on the training process. For example:
 
 ### Epochs=10
 ![epochs10](https://github.com/qi7171/Coding_3_Final_Project/assets/72468017/f1ae8d58-8b6c-4d75-9c88-e9437e63da03)
